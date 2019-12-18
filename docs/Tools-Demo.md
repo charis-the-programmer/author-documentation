@@ -1,6 +1,6 @@
 # Demos and Downloadable Code Samples
 
-Most tutorials, and some articles, published on SitePoint will be enhanced with a demo of the code and its result. We have a number of services we use to embed demos into articles.
+Most tutorials, and some articles, published on codeswag will be enhanced with a demo of the code and its result. We have a number of services we use to embed demos into articles.
 
 ### [GitHub](https://github.com/)
 Most articles involve code samples hosted on GitHub. As an author, you should create a public repo with all the code used in an article and make this available to your editor. This repo should be linked to prominently in the article.
