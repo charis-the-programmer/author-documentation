@@ -5,7 +5,7 @@ Most tutorials, and some articles, published on codeswag will be enhanced with a
 ### [GitHub](https://github.com/)
 Most articles involve code samples hosted on GitHub. As an author, you should create a public repo with all the code used in an article and make this available to your editor. This repo should be linked to prominently in the article.
 
-Once the repo is finalized, it will be forked to the SitePoint Editors repo to prevent code going missing or being altered after an article is published.
+Once the repo is finalized, it will be forked to the codeswag Editors repo to prevent code going missing or being altered after an article is published.
 
 ### [CodePen](https://codepen.io/)
 CodePen is useful for front-end demos involving HTML, CSS and JavaScript. It includes a console for displaying output (but this unfortunately cannot yet be included in the embedded view).
